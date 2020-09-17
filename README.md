@@ -1,5 +1,5 @@
 # calculator-app-using-Angular js
-You need to install node.js then angular in your system to make the code.
+You need to install node.js then angular in your system to make the code runnable.
 https://nodejs.org/en/download/ ---> from there you have to download the node.js and then install it.
 Then open cmd type node -v if this shows its current version then ok otherwise check your environment path variables.
 Now on Cmd type npm install -g @angular/cli    ----->Make Sure your system connected to internet during that procedure.
